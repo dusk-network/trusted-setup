@@ -9,9 +9,10 @@ You will need Rust to compile the code that verifies the contributions. You can 
 
 First, verify the [contributions](https://github.com/dusk-network/powersoftau-attestations) of Zcash up to number 87 using this [guide](VERIFY.md). This will output a challenge file you need to send to the first participant on the list.
 
-Once you get the response from the participant, you will need to do the following:
+Once you get the submission from the participant, you will need to do the following:
 
-- Check the integrity of the file using the provided hash.
+- Check the identity of the participant by verifying the provided signature or the provided post on a social network.
+- Check the integrity of the `response` file using the provided hash.
 - Verify that the contribution has been performed using the correct challenge. To do so, place the response from the participant into the root directory of the the code, where you must have the challenge you sent them, and verify as follows:
 
 ```
