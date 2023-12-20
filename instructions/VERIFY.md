@@ -19,7 +19,7 @@ Download the first contribution `response`, place it into the root of the cloned
 cargo run --release --bin new # this generates the first challenge
 cargo run --release --bin verify_transform # this verifies that the response has been computed using the given challenge
 ```
-Once verified, a new file `new_challenge` will be generated. Now you can download the next response file, and keep verifying all the contributions as follows:
+Once the contribution has been verified, the same instruction will generate a new file named `new_challenge`. Now you can download the next response file, and keep verifying all the contributions as follows:
 
 ```
 mv new_challenge challenge
