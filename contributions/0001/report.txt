@@ -1,0 +1,19 @@
+DUSK POWERS OF TAU 
+
+Using the following hashing algorithm https://github.com/BLAKE3-team/BLAKE3/releases
+
+Device Ubuntu 22.04 server -- time taken to compute about 15m
+
+Hash of the challenge:
+
+root@m12:~/DUSK_TAU/powersoftau# ./b3sum_linux_x64_bin ./challenge 
+e6eeef574e7b43464a0e92ee735cd1cf77a4b626898baa1a0909f126f5be65bc  ./challenge
+
+base64 /dev/random | head -c 100000 | egrep -ao "\w" | tr -d '\n' > /mnt/ramdisk-tmp/random
+
+Write some UTF-8 randomness from /dev/random to a ram disk, run process, unmount ram disk, reboot server.
+
+root@m12:~/DUSK_TAU/powersoftau# ./b3sum_linux_x64_bin ./response 
+9544afc8e0a50547bd664510ab4abd51c1b62f459bac7a78ca1720f406c9b59b  ./response
+
+as posted here: https://twitter.com/MCFvalidator/status/1737830548285087811
