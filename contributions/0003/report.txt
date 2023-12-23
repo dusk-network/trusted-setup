@@ -1,0 +1,10 @@
+Laptop Ryzen 9 32GB RTX3070 :)~ Ubuntu 23.10 Live external SD
+
+7 minutes to compute
+
+b3sum Hash challenge:
+78877b0611089da7203a8970614ad7b80d15f2980e5857f7fa0a8f8b6cd0e3b2 
+
+b3sum Hash response: 2c6cbbeeb8bde293da29896e33bb178c14dae3b5b1120a185d48c03f7ee57a09 
+    
+Entropy source: Not even I know. Reset ram/restarted device and proceeded to shiptoast, will destroy SD card used for transfer and live OS.
