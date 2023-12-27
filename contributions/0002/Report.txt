@@ -1,0 +1,11 @@
+Device: MBP M1 - Mac OS14.1.1
+Time to compute: 15-20 minutes
+
+b3sum ./challenge
+801e33e32437355d9038c0bdadd41324c9674fb04db562006b4c198262c477a0  ./challenge
+
+b3sum ./response 
+dceba5aa2db6c616c25ca7a1e5c8fad3a3879e6d5447f5100385a27b5eaaa8d5  ./response
+
+Input: Blindly hacking random characters on the keyboard. Shutdown of the device. 
+
