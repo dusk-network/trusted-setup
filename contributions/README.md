@@ -11,3 +11,5 @@ The starting challenge can be downloaded from here: https://ipfs.io/ipfs/QmVbcJw
 4. [Milkington](./0004/) [[report]](./0004/report) d22bc81571c8459c3f9074814fbd26519b46145dded197b714263ec7d7c31b11 BLAKE3
 
 5. [Duskanor](./0005/) [[report]](./0005/report) 468994f33986a5914252e2c56102cb89948d38a89ed1bf309a6cfa066572e306 BLAKE3
+
+6. [Xavier G.](./0006/) [[report]](./0006/report) a545599f1cd670cbe7fa16555b9acd7f5a1e87648b4e1fb94c486e86f5b9e8cc BLAKE3
