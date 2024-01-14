@@ -13,3 +13,5 @@ The starting challenge can be downloaded from here: https://ipfs.io/ipfs/QmVbcJw
 5. [Duskanor](./0005/) [[report]](./0005/report) 468994f33986a5914252e2c56102cb89948d38a89ed1bf309a6cfa066572e306 BLAKE3
 
 6. [Xavier G.](./0006/) [[report]](./0006/report) a545599f1cd670cbe7fa16555b9acd7f5a1e87648b4e1fb94c486e86f5b9e8cc BLAKE3
+
+7. [sshmaxime](./0007/) [[report]](./0007/report.txt) 82041126852ed8c98261a1f90708c7fcafb48d490274bba074e409b89d7a2ecd BLAKE3
