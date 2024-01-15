@@ -10,6 +10,21 @@ The list of participants will be sorted, and the coordinator will contact the fi
 
 All contributions will be available in the folder `contributions`.
 
+
+## Contributions
+
+The starting challenge is computed from the verification of the Zcash response number 87, and can be directly downloaded from [here](https://ipfs.io/ipfs/QmVbcJwx1N2Ldax9fzMVQAJYMvHbyBJNGRkLY9KRWsu8Jr?filename=challenge-dusk-start).
+
+| #    | Contributor    | Contribution                                | Public Profile                                           |
+| ---- | ----           | ----                                        | ----                                                     |
+| 0001 | MCFValidator   | [contributions/0001/](contributions/0001/)  | [Twitter](https://twitter.com/MCFvalidator)              |
+| 0002 | m_arcel        | [contributions/0002/](contributions/0002/)  | [Twitter](https://twitter.com/duskdart)                  | 
+| 0003 | Cyborgjox      | [contributions/0003/](contributions/0003/)  | [Twitter](https://twitter.com/cyborgjox)                 | 
+| 0004 | Milkington     | [contributions/0004/](contributions/0004/)  | [Twitter](https://twitter.com/Paphahghkhan)              | 
+| 0005 | Duskanor       | [contributions/0005/](contributions/0005/)  | [Twitter](https://twitter.com/Guv_Duskanor)              | 
+| 0006 | Xavier G.      | [contributions/0006/](contributions/0006/)  | [Twitter](https://twitter.com/UserNotAvailableRightNow)  | 
+| 0007 | sshmaxime      | [contributions/0007/](contributions/0007/)  | [GitHub](https://github.com/sshmaxime)                   | 
+
 ## License
 
 Licensed under MIT license ([LICENSE-MIT](LICENSE) or http://opensource.org/licenses/MIT).

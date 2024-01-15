@@ -1,0 +1,5 @@
+Device: Apple M1 Max - MacBook Pro
+Time Taken: around 15 - 20 minutes, not sure exactly
+Challenge Hash: 728af7c6 8d98dff3 807afba9 a3858a1e 2af39d9f dd3e32c0 88366c09 137a5bc2 9e1533db 4e284947 7c7ed3a4 053580e1 7dfedb17 acfd3e65 75bfbb9b 439dce95
+Response Hash: 04cca25b ae06e9a2 478cea81 9f68abd2 31dfbaf5 fc9b3ad7 b19188d0 411216f4 cc0dc803 d6d6c931 64321c09 fff5a087 3a39b289 9708e044 aace3a9d 571749a3
+Entropy: Random keys on my keyboard + some outputs of /dev/urandom + some actual words written poorly + bunch of other random stuff that popped into my head

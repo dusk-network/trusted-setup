@@ -1,0 +1,14 @@
+Dusk Powers of Tau
+
+Device: Motherboard: ASUS TUF GAMING B550-PLUS
+        CPU: AMD Ryzen 5 5600X 
+        OS: Nobara Linux 38 
+        Kernel: Linux 6.5.9-201.fsync.fc38.x86_64
+        
+Computation Time: 20-25 minutes
+
+b3sum Hash Challenge: 7315b609625985adf1ad7137d46dcb4ee23d8d5bb0e3683848548f4ae8c8992a 
+
+b3sum Hash Response: d22bc81571c8459c3f9074814fbd26519b46145dded197b714263ec7d7c31b11
+
+Entropy: Put hand puppets on and put my head under the table then randomly typed. Will also wipe my computer and put a fresh install of a linux on.

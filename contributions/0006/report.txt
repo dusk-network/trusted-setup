@@ -1,0 +1,13 @@
+Laptop Acer Aspire A315-54 i5-8265U
+
+Windows 10 Home x64 Version 22H2 
+
+Computing time 50 minutes
+
+BLAKE2b hash ./response:
+c725d35 b0744925 b06ac70b f4320d64 
+6979105c 398254ec c3e71ce5 0bfa4ebb 
+e731cbda 2d00327c a8d0456c 387caa87 
+8142ebfa fc7c9e67 306c8938 194aab82
+
+Used random words similar to a crypto wallet seedphrase for entropy
