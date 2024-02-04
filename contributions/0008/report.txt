@@ -1,0 +1,15 @@
+system info
+- windows 10  -- time taken to compute about ~50m
+
+Blake3 -> https://github.com/BLAKE3-team/BLAKE3/releases
+
+"b3sum_windows_x64_bin.exe" challenge
+db1ac443c6f4860b31e3fc1ecde46f5e86b81368863f5824ceef8aaa7878275d  challenge
+
+"b3sum_windows_x64_bin.exe" response
+b6e4d1f3cbb463369513aeab35bd842a547d6b5d5ea3f9469dba8f941949c75c  response
+
+entropy: gave the keyborad to my 13 month old son to have the chance of his life and type as much as he could.
+
+Elviro Junior
+Software Engineer at ASML via Sioux
