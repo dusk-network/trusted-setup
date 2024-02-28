@@ -13,7 +13,7 @@ All contributions will be available in the folder `contributions`.
 
 ## Contributions
 
-The starting challenge is computed from the verification of the Zcash response number 87, and can be directly downloaded from [here](https://ipfs.io/ipfs/QmVbcJwx1N2Ldax9fzMVQAJYMvHbyBJNGRkLY9KRWsu8Jr?filename=challenge-dusk-start).
+The starting challenge is computed from the verification of the Zcash response number 87, and can be directly downloaded from [here](https://drive.google.com/file/d/1-rrLqAjshpEJaGybl_traBnpAQazWjTs/view?usp=sharing).
 
 | #    | Contributor    | Contribution                                | Public Profile                                           |
 | ---- | ----           | ----                                        | ----                                                     |
