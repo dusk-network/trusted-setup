@@ -13,7 +13,7 @@ All contributions will be available in the folder `contributions`.
 
 ## Contributions
 
-The starting challenge is computed from the verification of the Zcash response number 87, and can be directly downloaded from [here](https://ipfs.io/ipfs/QmVbcJwx1N2Ldax9fzMVQAJYMvHbyBJNGRkLY9KRWsu8Jr?filename=challenge-dusk-start).
+The starting challenge is computed from the verification of the Zcash response number 87, and can be directly downloaded from [here](https://drive.google.com/file/d/1-rrLqAjshpEJaGybl_traBnpAQazWjTs/view?usp=sharing).
 
 | #    | Contributor    | Contribution                                | Public Profile                                           |
 | ---- | ----           | ----                                        | ----                                                     |
@@ -24,6 +24,7 @@ The starting challenge is computed from the verification of the Zcash response n
 | 0005 | Duskanor       | [contributions/0005/](contributions/0005/)  | [Twitter](https://twitter.com/Guv_Duskanor)              | 
 | 0006 | Xavier G.      | [contributions/0006/](contributions/0006/)  | [Twitter](https://twitter.com/UserNotAvailableRightNow)  | 
 | 0007 | sshmaxime      | [contributions/0007/](contributions/0007/)  | [GitHub](https://github.com/sshmaxime)                   | 
+| 0008 | Elviro Junior  | [contributions/0008/](contributions/0008/)  | [Twitter](https://twitter.com/e_viruz)                 | 
 
 ## License
 
