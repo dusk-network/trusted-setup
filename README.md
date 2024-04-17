@@ -26,6 +26,7 @@ The starting challenge is computed from the verification of the Zcash response n
 | 0007 | sshmaxime      | [contributions/0007/](contributions/0007/)  | [GitHub](https://github.com/sshmaxime)                   | 
 | 0008 | Elviro Junior  | [contributions/0008/](contributions/0008/)  | [Twitter](https://twitter.com/e_viruz)                    |
 | 0009 | TMiNus         | [contributions/0009/](contributions/0009/)  | [GitHub](https://github.com/tminus)                      | 
+| 0010 | MoCello         | [contributions/0010/](contributions/0010/)  | [GitHub](https://github.com/moCello)                      | 
 
 ## License
 
