@@ -4,6 +4,7 @@
 ## Prerequisites
 
 You will need Rust to compile the code that verifies the contributions. You can follow the recommended [guide](https://www.rust-lang.org/tools/install).
+Recommended Rust version is `nightly-2023-05-22`.
 
 ## Verify the contributions
 
