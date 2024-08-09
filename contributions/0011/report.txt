@@ -1,0 +1,6 @@
+Dusk - Powers of Tau: Device: MacbookPro 2019 2,3 GHz Intel Core i9  - Mac OS13.2.1
+Time to compute: 20-35 minutes 
+Input: One minute of completely random typing
+Challenge:
+9e1c7a77121c75d911d1c8118e93398cc19590a541a9a54ca45dadb45a469b43e532b27dd16bd7e19d577c7ea09a292df38dd8fa4524bf2f8bed1713d7c7022e
+Response: c364972d8aa167fc6966565bf82918f7c7865a9eb980259fd3b5536abcd0809d4ffbb88c1b26dcdfaaa50f3d15aee14e70c055fe1363ab5ca49f95ab1be90b75
