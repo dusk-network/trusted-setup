@@ -27,7 +27,8 @@ The starting challenge is computed from the verification of the Zcash response n
 | 0008 | Elviro Junior  | [contributions/0008/](contributions/0008/)  | [Twitter](https://twitter.com/e_viruz)                    |
 | 0009 | TMiNus         | [contributions/0009/](contributions/0009/)  | [GitHub](https://github.com/tminus)                      | 
 | 0010 | MoCello         | [contributions/0010/](contributions/0010/)  | [GitHub](https://github.com/moCello)    
-| 0011 | Lufa23         | [contributions/0011/](contributions/0011/)  | [X](https://x.com/LF_Dusk)                      | 
+| 0011 | Lufa23         | [contributions/0011/](contributions/0011/)  | [X](https://x.com/LF_Dusk)     
+| 0012 | Hein Dauven    | [contributions/0012/](contributions/0012/)  | [Github](https://github.com/HDauven)                      | 
 
 ## License
 
