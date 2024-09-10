@@ -1,0 +1,23 @@
+Brief description of the device I used:
+MacBook Pro 16-inch 2.4GHz 8 Core Intel Core i9 32GB macOS Monterey
+
+The time taken to compute the contribution:
+28m26.748s (including entropy entry)
+25m10s (after entropy entry)
+
+The hash of the challenge I used:
+09d5c7cbe7375d84d7a27a765aeb55ea96c6af67531acbec7c49af174370c30a (sha256)
+
+The hash of the response file:
+52c9d47e5cddd585b9b0c2e5ade6f809046d516289302871766bdc463e7be214 (sha256)
+BLAKE2b hash:
+	eaaed2b7 10a90c0a 54fb98e4 7a60f14a
+	c341ee48 d6d39322 164f3669 0dc41446
+	5e07b104 e0208ad0 d9d58111 fcc53fd0
+	32dd3676 940fa3c9 232f3428 d0b00ca6
+
+Brief description of the entropy source I used and any precautions I took to ensure that it's not possible to recover the value I introduced:
+I used random foreign language words from a random foreign newspaper and then some random words from a more than 70-years old history book.
+
+Link to a public profile containing the public GPG key:
+https://github.com/miloszm
