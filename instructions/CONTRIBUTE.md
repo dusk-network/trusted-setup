@@ -3,7 +3,8 @@
 
 ## Prerequisites
 
-You will need Rust to compile the code that generates your contribution. You can follow the recommended [guide](https://www.rust-lang.org/tools/install).
+You will need Rust to compile the code that generates your contribution. You can follow the recommended [guide](https://www.rust-lang.org/tools/install). 
+Recommended Rust version is `nightly-2023-05-22`.
 
 ## Compute your contribution
 
@@ -43,3 +44,7 @@ To submit your contribution, provide the following to the coordinator:
 - One of the following ways to verify your identity:
   - A signature of the `report` file, and the link to a public profile containing the public key (e.g. the GPG key in your GitHub account).
   - A link to a post on a social network where you publicly published your report.
+ 
+> **_NOTE:_**
+To obtain the hash of the response you can use the BLAKE2b hash, while to obtain the hash of the challenge you can run b2sum on the challenge file that Coordinator has shared.
+
