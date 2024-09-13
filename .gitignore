@@ -1,2 +1,7 @@
 **/response
 **/challenge
+**/dusk-trusted-setup
+**/target
+**/*.rs.bk
+Cargo.lock
+.DS_Store

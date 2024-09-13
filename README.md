@@ -33,6 +33,14 @@ The starting challenge is computed from the verification of the Zcash response n
 | 0014 | Marta Bellés Muñoz | [contributions/0014/](contributions/0014/)  | [Github](https://github.com/marta-belles)           | 
 | 0015 | Milosz Muszynski | [contributions/0015/](contributions/0015/)  | [Github](https://github.com/miloszm)           | 
 
+## Use in `dusk_plonk`
+
+To use the trusted setup with `dusk_plonk`, the conversion of the response file to a suitable format (the `PublicParameters` serialized struct) is required. You can do it by copying the response to the root of the folder `conversion` and executing:
+
+```
+cargo r
+```
+
 ## License
 
 Licensed under MIT license ([LICENSE-MIT](LICENSE) or http://opensource.org/licenses/MIT).
