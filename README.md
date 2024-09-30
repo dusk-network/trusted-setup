@@ -30,8 +30,9 @@ The starting challenge is computed from the verification of the Zcash response n
 | 0011 | Lufa23         | [contributions/0011/](contributions/0011/)  | [X](https://x.com/LF_Dusk)                               |
 | 0012 | Hein Dauven    | [contributions/0012/](contributions/0012/)  | [Github](https://github.com/HDauven)                     | 
 | 0013 | Eduardo Leegwater Simões | [contributions/0013/](contributions/0013/)  | [Github](https://github.com/ureeves)           | 
-| 0014 | Marta Bellés Muñoz | [contributions/0014/](contributions/0014/)  | [Github](https://github.com/marta-belles)           | 
-| 0015 | Milosz Muszynski | [contributions/0015/](contributions/0015/)  | [Github](https://github.com/miloszm)           | 
+| 0014 | Marta Bellés Muñoz | [contributions/0014/](contributions/0014/)  | [Github](https://github.com/marta-belles)            | 
+| 0015 | Milosz Muszynski   | [contributions/0015/](contributions/0015/)  | [Github](https://github.com/miloszm)                 | 
+| 0016 | Neotamandua    | [contributions/0016/](contributions/0016/)  |  [Github](https://github.com/neotamandua)                | 
 
 ## Use in `dusk_plonk`
 
