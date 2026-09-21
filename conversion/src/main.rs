@@ -16,7 +16,7 @@ use std::{fmt::Error, fs, fs::File, io::Write};
 const FILE_MAX_TAU_POWERS: usize = 1 << 21;
 
 // The maximum number of tau powers needed for Dusk Blockchain circuits
-const DUSK_MAX_TAU_POWERS: usize = (1 << 17) + 6; // + 6 due to blinding factors
+const DUSK_MAX_TAU_POWERS: usize = (1 << 17) + 9; // + 9 due to blinding factors
 
 // The size of G1 affine points in compressed form
 const G1_AFFINE_COMPRESSED_SIZE: usize = 48;
